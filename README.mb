@@ -1,0 +1,27 @@
+CinePipoca
+
+Esse é um projeto que será desenvolvido em Front-End para o site de um cinema, que foi criado sem o script, portanto hoje irei desenvolve-lo. 
+
+Tecnologias Utilizadas
+* HTML5 (Semântica e Acessibilidade)
+* CSS3 (Estilização e Feedback Visual)
+* JavaScript (Manipulação de DOM e Eventos)
+
+Estrutura do Projeto
+O projeto foi organizado seguindo boas práticas de mercado:
+/
+├── index.html
+└── src/
+    ├── styles/  
+    ├── scripts/ 
+    └── images/  
+
+Funcionalidades Implementada
+Interatividade Visual: Faz com que o mouse seja ativo na tela, e de retorno ao ser utilizado.
+Saudação Dinâmica: Uma mensagem que é enviada para os usuario, assim que acesam o site. 
+Cálculo em Tempo Real: É o calculo que mostra o resultado do valor gasto e acordo com a compra do usuario.
+Injeção de Conteúdo: Novos itens são adicionados na tela utilizando o DOM.
+
+Autor
+[Nicoly Valaitis De Oliveira]
+[https://github.com/nicoly070225]
